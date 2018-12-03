@@ -3,15 +3,15 @@ a Client - Server eCommerece android app for buying drinks like Iced tea and jui
 
 ## Dependencies
 
-[x] Retrofit2 for Http reguests.
-[x] RxJava2 for interactive programming.
-[x] GSON for parsing json object.
-[x] Picasso for loading images.
-[x] Navigation drawer
-[x] Custom collection view.
-[x] MySQL for querying DB and sorting.
-[x] PHP for Web services
-[] Braintree Payments
+[X] Retrofit2 for Http reguests.
+[X] RxJava2 for interactive programming.
+[X] GSON for parsing json object.
+[X] Picasso for loading images.
+[X] Navigation drawer
+[X] Custom collection view.
+[X] MySQL for querying DB and sorting.
+[X] PHP for Web services
+[X] Braintree Payments
 
 ## Screenshot
 
