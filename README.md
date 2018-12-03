@@ -16,4 +16,8 @@ a Client - Server eCommerece android app for buying drinks like Iced tea and jui
 
 ## Screenshot
 
-![](https://github.com/SherifKamalSalem/Juncee/blob/master/front.gif)|
+![](https://github.com/SherifKamalSalem/Juncee/blob/master/front.gif)
+
+![](https://github.com/SherifKamalSalem/Juncee/blob/master/Screenshot_20181203-133251.jpg)
+
+![](https://github.com/SherifKamalSalem/Juncee/blob/master/Screenshot_20181203-133330.jpg)
